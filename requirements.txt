@@ -1,0 +1,10 @@
+# SmartDecision AI Agent - 依賴套件清單
+
+# Streamlit：Web UI 框架
+streamlit>=1.35.0
+
+# OpenAI Python SDK：呼叫 GPT 模型
+openai>=1.30.0
+
+# python-dotenv：讀取 .env 環境變數
+python-dotenv>=1.0.0
